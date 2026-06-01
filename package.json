@@ -1,0 +1,19 @@
+{
+  "name": "ar-floor-defense",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "AR Floor Defense Shooter - WebXR prototype (Three.js)",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --host"
+  },
+  "dependencies": {
+    "three": "^0.184.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-basic-ssl": "^2.3.0",
+    "vite": "^8.0.15"
+  }
+}
